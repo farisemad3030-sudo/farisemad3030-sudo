@@ -12,7 +12,7 @@
 ### 👨‍💻 About Me
 
 - 🎓 **B.Sc. in Computer Engineering** at **Nile University** *(2024 – 2028)*.
-- ⚙️ Passionate about building **production-grade Python automation engines**, **native Android apps (`Kotlin 2.0` / `Jetpack Compose` / `ML Kit`)**, **full-stack web platforms (`Flask` / `MySQL`)**, **multilingual NLP models (`PyTorch`)**, **cross-platform mobile apps (`Flutter`)**, and **embedded `C/C++` hardware systems**.
+- ⚙️ Passionate about building **production-grade Python automation engines**, **native Android apps (`Kotlin 2.0` / `Jetpack Compose` / `ML Kit`)**, **high-throughput media processing pipelines**, **full-stack web platforms (`Flask` / `MySQL`)**, **multilingual NLP models (`PyTorch`)**, **cross-platform mobile apps (`Flutter`)**, and **embedded `C/C++` hardware systems**.
 - 🧪 Advocate for clean architecture, privacy-first on-device engineering, and rigorous automated testing (**215+ unit & E2E test suites**).
 - 🏆 **AI Hackathon Participant** at Nile University / Microsoft Student Community (MSC) / DeepX *(Jan 2026)*.
 
@@ -24,6 +24,7 @@
 | :--- | :--- | :--- |
 | **[NU Moodle Sync Studio](https://github.com/farisemad3030-sudo/nu-moodle-sync-studio)** | `Python` `Playwright` `Entra ID OIDC` `BeautifulSoup4` `yt-dlp` `Unittest` | End-to-end Moodle LMS synchronization engine & local web dashboard automating course discovery, **Microsoft Entra ID SSO**, SharePoint/OneDrive lecture stream extraction, and **4-tier SHA-256 deduplication** across 6+ courses (**215 automated tests**). |
 | **[DocScan Pro](https://github.com/farisemad3030-sudo/DocScan-Pro)** | `Kotlin 2.0` `Jetpack Compose` `ML Kit` `CameraX` `Coroutines` `PdfDocument` | 100% offline, privacy-first Android document scanner & PDF suite featuring **Google ML Kit** & **CameraX** edge detection, hardware-accelerated 4x5 **ColorMatrix** filters, vector **Canvas** annotations, and OOM-free 64MP+ PDF compilation. |
+| **[YouTube Downloader Pro](https://github.com/farisemad3030-sudo/youtube-downloader-pro)** | `Python` `CustomTkinter` `yt-dlp` `FFmpeg` `Deno Runtime` `Threading` | High-throughput desktop GUI & CLI YouTube media extraction suite with asynchronous worker queues, dynamic **Deno** JavaScript n-sig decryption for stream throttling mitigation, and multi-stream parallel fragment downloading. |
 | **[HyperOS Fastboot Toolkit](https://github.com/farisemad3030-sudo/HyperOS-Fastboot-Toolkit)** | `Python Stdlib` `Tkinter GUI` `CLI` `UDP/NTP` `HTTPS Keep-Alive` `ADB/Fastboot` | Zero-dependency **3,500+ LOC** desktop GUI & CLI utility for Xiaomi/POCO HyperOS diagnostics, featuring Passport API/2FA/QR authentication, UDP port 123 atomic NTP calibration, `TCP_NODELAY` connection pooling, and Windows USB 3.0 registry repair. |
 
 ---
@@ -46,7 +47,7 @@
 - **Languages:** `Python` `Kotlin 2.0` `Java 17` `C` `C++` `SQL (MySQL, SQLite)` `Dart` `JavaScript` `HTML5` `CSS3` `MATLAB` `Bash / Shell`
 - **Android & Cross-Platform Mobile:** `Jetpack Compose (Material 3)` `Kotlin Coroutines` `AndroidX CameraX` `Google ML Kit` `PdfDocument / PdfRenderer` `ColorMatrix` `Scoped Storage` `Flutter` `Gradle Kotlin DSL`
 - **AI, ML & Data:** `PyTorch` `Natural Language Processing (NLP)` `Multilingual Text Normalization (Arabic & Arabizi)` `On-Device ML Vision` `BeautifulSoup4`
-- **Backend, Web & Systems:** `Flask` `SQLAlchemy ORM` `Flask-Login (RBAC)` `Playwright` `REST APIs` `yt-dlp` `Bootstrap 5` `Tkinter` `Linux (Ubuntu)` `Git` `GitHub` `Microsoft Entra ID (OIDC/SSO)` `TCP/IP & UDP/NTP` `Android ADB & Fastboot` `Arduino` `Unittest`
+- **Backend, Systems & Tools:** `Flask` `SQLAlchemy ORM` `CustomTkinter` `Playwright` `yt-dlp` `FFmpeg` `Deno Runtime` `Bootstrap 5` `Tkinter` `Linux (Ubuntu)` `Git` `GitHub` `Microsoft Entra ID (OIDC/SSO)` `TCP/IP & UDP/NTP` `Android ADB & Fastboot` `Arduino` `Unittest`
 
 ---
 
